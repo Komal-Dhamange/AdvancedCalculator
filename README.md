@@ -51,7 +51,7 @@ This project is designed to simulate a real-world scientific calculator interfac
 
 «📸 Add your screenshot in "images" folder»
 
-"Calculator UI" (images/calculator.png)
+![Calculator Screenshot](Screenshot 2026-04-29 210934.png)
 
 ---
 
